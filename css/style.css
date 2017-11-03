@@ -1,0 +1,49 @@
+#main{
+    width: 700px;
+    height: 200px;
+    border: 1px solid #eee;
+    margin:0 auto;
+}
+.tap-change{
+    height: 50px;
+    width:700px;
+    background:#f7f7f7;
+}
+.tap-change-ul{
+
+}
+.tap-change-ul li{
+    float: left;
+    width: 140px;
+    height: 49px;
+    line-height: 49px;
+    text-align: center;
+    border-bottom: 1px solid #eee;
+}
+.tap-change-ul li a:link,.tap-change-ul li a:visited{
+    color: #000;
+    text-decoration: none;
+}
+.tap-change-ul li a:hover{
+    color: #ff9830;
+}
+.tap-change-ul .selection{
+    border-bottom: 0;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    background: #fff;
+    width: 138px;
+}
+.tap-change-ul .selection a{
+    font-weight: 600;
+}
+.tab-contain{
+    padding: 40px 40px;
+}
+.tab-contain-ul li{
+    float: left;
+    width: 300px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
